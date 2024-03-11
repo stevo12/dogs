@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChipDogs</string>
+
+    <string name="all_dog_breeds_title">All dog breeds</string>
+    <string name="error_dialog_title">Something went wrong</string>
+    <string name="error_dialog_dismiss_button_label">Got it</string>
+</resources>
