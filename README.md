@@ -1,7 +1,7 @@
 # dogs
 
 I've opted for a MVVM+ approach with Clean Architecture.
-I've decided to use OrbitMvi library because due to its structured and simple components
+I've decided to use OrbitMvi library due to its structured and simple components
 
 This approach is modular and easy to use. Plug & Play.
 
